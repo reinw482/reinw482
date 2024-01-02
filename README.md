@@ -1,4 +1,4 @@
-Welcome to my page! Below are projects that I have worked on:
+Welcome to my page! Below are some recent projects that I have worked on:
 
 <a href="https://reinw482.github.io/IthacaApplefest/index.html">Ithaca Applefest Website</a>
 
