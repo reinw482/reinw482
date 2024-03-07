@@ -5,5 +5,5 @@ Welcome to my page! Below are some recent projects that I have worked on:
 <a href="https://cornell-info1300-2023fa.github.io/Ithaca-Applefest/index.html">Ithaca Applefest Website</a>
 
 
-<a href="https://github.com/reinw482/Fumehood-Dashboard">Fumehood Lab Web Dashbaord</a>
+<a href="https://github.com/thereidfleish/fume-hood-dashboard">Fumehood Lab Web Dashboard</a>
 
