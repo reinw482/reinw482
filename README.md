@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reinesse :)</h1>
+<h1 align="center">Hi 👋, I'm Reinesse! </h1>
 <h3 align="center">A data science student @ Cornell</h3>
 
 ## 💬 Ask me about
