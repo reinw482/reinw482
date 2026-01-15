@@ -2,7 +2,7 @@
 <h3 align="center">A data science student @ Cornell</h3>
 
 ## 💬 Ask me about
-- Data engineering & analytics 
+- Data analytics
 - Backend development and APIs
 - Databases & data modeling 
 - Data Visualization
