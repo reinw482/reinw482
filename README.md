@@ -9,7 +9,7 @@
 
 ## 💻 Projects
 
-Apart from the pinned repositories, I have built:
+Apart from the pinned repositories, I have worked on:
 - 🌧️ [Zambia Weather Visualization Tool](https://github.com/reinw482/Query_Building_Tool) *(Under [Waldman Lab @ Cornell](https://www.kurtwaldman.com/))*
 - 📊 [ECHO Data Dashboard](https://public.tableau.com/app/profile/jordan.abbott/viz/ECHODataDashboard/Home) *(part of [Build4Good Internship](https://www.build4good.tech/))*
 - 💳 [Credit Risk Default Project](https://github.com/hmariappa/info2950_final_project)
