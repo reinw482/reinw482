@@ -3,7 +3,7 @@
 
 ## 💬 Ask me about
 - Data analytics
-- Backend development and APIs
+- Backend development
 - Databases & data modeling 
 - Data Visualization
 
