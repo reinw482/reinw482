@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reinesse! </h1>
-<h3 align="center">A recent information science graduate!</h3>
+<h3 align="center">A recent information science grad from Cornell 🐻 </h3>
 
 ## 💬 Ask me about
 - Data analytics
